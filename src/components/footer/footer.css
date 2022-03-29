@@ -1,0 +1,13 @@
+footer {
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 1.8rem;
+  color: #8b8987;
+}
+
+.logo-img {
+  display: flex;
+  justify-content: space-evenly;
+}
